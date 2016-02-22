@@ -1,0 +1,101 @@
+date,url,title
+13/01/2016,http://stackoverflow.com/questions/34767103/fpopenidbundle-return-undefined-index-username,fpOpenIdBundle return 'undefined index: username'
+13/01/2016,http://stackoverflow.com/questions/34767101/expand-and-collapse-relative-layout,Expand and collapse relative layout
+13/01/2016,http://stackoverflow.com/questions/34767099/vb-net-cryptographypdf,VB.NET Cryptography(PDF)
+13/01/2016,http://stackoverflow.com/questions/34767093/pass-multiple-value-to-a-controller-through-ng-init,Pass multiple value to a controller through ng-init
+13/01/2016,http://stackoverflow.com/questions/34767092/in-ie-whats-the-difference-between-file-save-as-and-document-execcommandsav,"In IE, what's the difference between File->Save As and document.execCommand('SaveAs')?"
+13/01/2016,http://stackoverflow.com/questions/34767089/uiscrollview-scrolling-with-indicator-only,UIScrollView scrolling with indicator only
+13/01/2016,http://stackoverflow.com/questions/34767087/attributeerror-float-object-has-no-attribute-exp-when-calling-predict-proba,AttributeError: 'float' object has no attribute 'exp' when calling predict_proba
+13/01/2016,http://stackoverflow.com/questions/34767086/reading-data-from-file-in-r,Reading Data from file in R
+13/01/2016,http://stackoverflow.com/questions/34767085/using-two-checks-in-elastic-search-query,Using two checks in elastic search query
+13/01/2016,http://stackoverflow.com/questions/34767082/hangfire-dashboard-authorization-when-hosting-hangfire-on-azure-workerrole,Hangfire dashboard authorization when hosting hangfire on Azure WorkerRole
+13/01/2016,http://stackoverflow.com/questions/34767081/implementing-ajax-file-upload-in-native-wordpress-codex-and-pod-framework,implementing ajax file upload in native wordpress codex and pod framework
+13/01/2016,http://stackoverflow.com/questions/34767080/setpartialrenderingmode-can-only-be-called-once,SetPartialRenderingMode can only be called once
+13/01/2016,http://stackoverflow.com/questions/34767074/cocos2d-x-convert-valuemap-to-string-raw-data-and-back,Cocos2d-x - Convert ValueMap to string / raw data and back
+13/01/2016,http://stackoverflow.com/questions/34767072/why-is-cronjob-running-at-wrong-time,Why is Cronjob running at wrong time
+13/01/2016,http://stackoverflow.com/questions/34767069/sql-to-get-data-with-condition-as-combination-of-two-columns-in-oracle,SQL to get data with condition as combination of two columns in oracle
+13/01/2016,http://stackoverflow.com/questions/34767067/reading-encode-asn-file-manually,Reading encode asn file manually
+13/01/2016,http://stackoverflow.com/questions/34767065/how-can-i-redirect-to-a-controller-method-passing-a-parameter-when-another-contr,How can I redirect to a controller method passing a parameter when another controller method end its execution in Spring MVC?
+13/01/2016,http://stackoverflow.com/questions/34767064/java-lang-unsupportedoperationexception-not-implemented-by-the-distributedfiles,java.lang.UnsupportedOperationException: Not implemented by the DistributedFileSystem FileSystem implementation
+13/01/2016,http://stackoverflow.com/questions/34767063/univocity-parsers-cannot-resolve-method-writevalueint,"Univocity Parsers, “Cannot resolve method writeValue(int)”?"
+13/01/2016,http://stackoverflow.com/questions/34767062/rspec-test-expectations-within-block,Rspec test expectations within block
+13/01/2016,http://stackoverflow.com/questions/34767059/how-can-i-put-the-table-on-the-right-side-on-the-screen,how can i put the table on the right side on the screen?
+13/01/2016,http://stackoverflow.com/questions/34767058/get-localised-account-name-for-the-nt-authority-network-service-account-or-h,"Get localised account name for the “NT AUTHORITY\Network Service” account (or, how to convert this VBScript snippet to Powershell?)"
+13/01/2016,http://stackoverflow.com/questions/34767056/subclassing-uitextfield-in-swift-to-recognise-delete-backspace-key,Subclassing UITextfield in Swift to recognise delete/backspace key
+13/01/2016,http://stackoverflow.com/questions/34767052/how-can-i-get-css-properties-from-html-page-using-javascript,How can I get css properties from html page using javascript?
+13/01/2016,http://stackoverflow.com/questions/34767051/tcp-connection-reset-in-haproxy-connection-initialization-scenario,Tcp connection reset in haproxy connection initialization scenario
+13/01/2016,http://stackoverflow.com/questions/34767050/scala-test-file-upload-with-additional-attributes-multipartformdata,Scala Test: File upload with additional attributes - MultipartFormData
+13/01/2016,http://stackoverflow.com/questions/34767048/how-to-make-shared-library-an-executable,how to make shared library an executable
+13/01/2016,http://stackoverflow.com/questions/34767047/how-to-activate-the-email-link-in-php,How to activate the email link in php
+13/01/2016,http://stackoverflow.com/questions/34767042/invalid-query-results-with-mysql-5-7,Invalid query results with mysql 5.7
+13/01/2016,http://stackoverflow.com/questions/34767040/should-it-store-it-as-file-system-or-store-it-in-cassandra-table,should it store it as file system or store it in Cassandra table?
+13/01/2016,http://stackoverflow.com/questions/34767039/replicated-database-for-storing-historical-data,Replicated database for storing historical data
+13/01/2016,http://stackoverflow.com/questions/34767035/codeigniter-not-showing-updated-values,Codeigniter: Not showing updated values
+13/01/2016,http://stackoverflow.com/questions/34767032/whats-the-meaning-of-project-itemgroup4-clcompile-include-in-a-visua,What's the meaning of “/Project/ItemGroup[4]/ClCompile[…]/@Include” in a Visual Studio project file?
+13/01/2016,http://stackoverflow.com/questions/34767031/c-file-cfx-pmta-cxx-wont-compile,C++ file cfx_pmta.cxx won't compile
+13/01/2016,http://stackoverflow.com/questions/34767027/greek-letters-for-stat-density-2d-plot,Greek Letters for stat density 2d plot
+13/01/2016,http://stackoverflow.com/questions/34767023/inject-login-details-into-twitterkit,Inject login details into TwitterKit
+13/01/2016,http://stackoverflow.com/questions/34767019/how-does-this-code-use-promises-to-sequentially-fetch-urls-and-load-it-sequentia,How does this code use promises to sequentially fetch urls and load it sequentially to html?
+13/01/2016,http://stackoverflow.com/questions/34767018/how-can-i-envelope-something-in-html-element-conditionally,How can I envelope something in HTML element conditionally
+13/01/2016,http://stackoverflow.com/questions/34767017/sql-update-statement-using-data-from-another-table,SQL Update Statement Using Data from another Table
+13/01/2016,http://stackoverflow.com/questions/34767016/the-difference-between-a-container-map-and-a-struct-in-matlab,The difference between a container map and a struct in matlab
+13/01/2016,http://stackoverflow.com/questions/34767012/jsonstore-errors-provision-table-search-fields-mismatch-or-username-mismatch-d,JSONStore errors - PROVISION_TABLE_SEARCH_FIELDS_MISMATCH or USERNAME_MISMATCH_DETECTED
+13/01/2016,http://stackoverflow.com/questions/34767010/android-not-asking-permissions-recording-not-working,Android not asking permissions / recording not working
+13/01/2016,http://stackoverflow.com/questions/34767009/how-to-change-a-vectors-type-in-c,How to change a vector's type in c++
+13/01/2016,http://stackoverflow.com/questions/34767008/chat-and-error-logger-for-chrome-extension,Chat and Error logger for Chrome Extension
+13/01/2016,http://stackoverflow.com/questions/34767003/flex-carousel-items-are-not-displaying-properly-until-i-clicked-on-inspect-eleme,flex carousel items are not displaying properly until i clicked on inspect element
+13/01/2016,http://stackoverflow.com/questions/34766999/how-to-use-microsoft-build-evaluation-project-removeitem,How to use Microsoft.Build.Evaluation.Project.RemoveItem
+13/01/2016,http://stackoverflow.com/questions/34766998/jquery-mobile-how-to-disable-body-scroll-when-side-panel-is-opened,jquery mobile - How to disable body scroll when side panel is opened?
+13/01/2016,http://stackoverflow.com/questions/34766993/memory-leaks-in-copy-constructor,Memory leaks in copy constructor
+13/01/2016,http://stackoverflow.com/questions/34766992/is-it-possible-to-send-sms-from-android-phone-using-adb-protocol,Is it possible to send Sms from android phone using adb protocol
+13/01/2016,http://stackoverflow.com/questions/34766990/how-to-summit-my-app-on-this-website-http-dev-pp-cn,How to summit my app on this website: http://dev.pp.cn [on hold]
+13/01/2016,http://stackoverflow.com/questions/34767219/angular-modify-and-resubmit-http-get-request-using-buttons-on-page,Angular modify and resubmit http.get request using buttons on page
+13/01/2016,http://stackoverflow.com/questions/34767218/signalr-backplane-oracle,Signalr backplane oracle
+13/01/2016,http://stackoverflow.com/questions/34767215/pypeg2-parse-list-of-words-between-begin-and-end-keyword,PyPeg2 parse list of words between BEGIN and END keyword
+13/01/2016,http://stackoverflow.com/questions/34767214/how-to-update-data-in-database-while-downloading-a-file-in-asp-for-counting-num,How to Update Data in Database while Downloading a File in Asp (For counting number of times Files downloaded)
+13/01/2016,http://stackoverflow.com/questions/34767213/how-to-get-size-of-mongodb-single-document-in-bytes-using-nodejs,How to get size of mongodb single document in bytes using nodejs?
+13/01/2016,http://stackoverflow.com/questions/34767211/angularjs-openmodel-reurns-error-not-a-function,angularjs .openModel() reurns error not a function
+13/01/2016,http://stackoverflow.com/questions/34767209/antlr-use-first-token-of-next-statement-to-terminate-the-preceeing-one,ANTLR: Use First Token of next statement to terminate the preceeing one
+13/01/2016,http://stackoverflow.com/questions/34767204/distorted-orientation-after-taking-image-from-device-camera-portrait-locked-app,Distorted orientation after taking image from device camera (portrait locked app)
+13/01/2016,http://stackoverflow.com/questions/34767198/applying-python-to-business-analytics-dissertation,Applying Python to Business Analytics Dissertation
+13/01/2016,http://stackoverflow.com/questions/34767196/strange-switch-operator-behaviour-type-script,Strange switch operator behaviour [Type Script]
+13/01/2016,http://stackoverflow.com/questions/34767195/backbone-reset-event-not-working-with-collection-fetch,Backbone Reset event not working with Collection fetch?
+13/01/2016,http://stackoverflow.com/questions/34767193/spring-boot-auto-configuration-fails-to-bind-property-file-from-jar-to-a-bean,Spring boot auto configuration fails to bind property file from jar to a bean
+13/01/2016,http://stackoverflow.com/questions/34767194/restlet-path-param-does-not-work,Restlet path param does not work
+13/01/2016,http://stackoverflow.com/questions/34767189/regex-for-google-filter,Regex for Google filter
+13/01/2016,http://stackoverflow.com/questions/34767180/possible-memory-leak-in-firebreath-plugin,Possible memory leak in Firebreath plugin
+13/01/2016,http://stackoverflow.com/questions/34767179/how-to-convert-html-page-to-pdf,how to convert HTML page to PDF
+13/01/2016,http://stackoverflow.com/questions/34767176/xmpp-duplicate-message-handling-in-muc,XMPP Duplicate message handling in MUC
+13/01/2016,http://stackoverflow.com/questions/34767174/how-to-write-data-into-existing-xlsx-file-which-has-multiple-sheets,How to write data into existing '.xlsx' file which has multiple sheets
+13/01/2016,http://stackoverflow.com/questions/34767172/using-queryset-to-filter-within-form-to-display-results-from-db-depending-on-o,Using queryset to 'filter' within form to display results from DB depending on option selected
+13/01/2016,http://stackoverflow.com/questions/34767168/is-there-a-way-to-invoke-browser-menu-command-using-javascript,Is there a way to invoke browser menu command using JavaScript?
+13/01/2016,http://stackoverflow.com/questions/34767167/symfony-creating-doctrine-orm-service,Symfony creating Doctrine ORM service
+13/01/2016,http://stackoverflow.com/questions/34767166/mvc-access-attribute-value-in-action,MVC: access attribute value in action
+13/01/2016,http://stackoverflow.com/questions/34767164/how-get-id-from-dynamic-button-jquery,How get id from dynamic button ? (jQuery)
+13/01/2016,http://stackoverflow.com/questions/34767163/papaparse-cant-use-data-after-parsing,PapaParse - Can't use data after parsing
+13/01/2016,http://stackoverflow.com/questions/34767162/gocardless-api-re-authozied-merchant,GoCardless API -Re AUthozied merchant
+13/01/2016,http://stackoverflow.com/questions/34767160/using-underscorejs-to-flattern-array-by-nested-array-item,Using underscorejs to flattern array by nested array item
+13/01/2016,http://stackoverflow.com/questions/34767157/editing-an-xml-object-identityprovider,Editing an XML object - IdentityProvider
+13/01/2016,http://stackoverflow.com/questions/34767156/adding-username-to-audit-table,Adding username to audit table
+13/01/2016,http://stackoverflow.com/questions/34767153/applet-works-on-debian-but-not-windows-mousepressed-doesnt-execute,applet works on debian but not windows [mousePressed doesn't execute]
+13/01/2016,http://stackoverflow.com/questions/34767147/check-if-a-string-contains-a-set-of-characters-whatever-their-order,Check if a string contains a set of characters whatever their order [duplicate]
+13/01/2016,http://stackoverflow.com/questions/34767144/reference-a-variables-valuedate-in-other-variablestring-in-unix,Reference a variable's value(date) in other variable(string) in Unix
+13/01/2016,http://stackoverflow.com/questions/34767142/how-to-upload-the-image-and-video-in-two-different-folder-using-codeigniter,How to Upload the image and Video in two Different Folder using Codeigniter
+13/01/2016,http://stackoverflow.com/questions/34767140/get-free-or-used-ram-in-android,get free or used ram in android
+13/01/2016,http://stackoverflow.com/questions/34767137/how-can-make-a-table-to-be-scrolled-with-fixed-header-bootstrap,How can make a table to be scrolled with fixed header (bootstrap)?
+13/01/2016,http://stackoverflow.com/questions/34767136/default-value-for-an-embedded-field-in-hibernate-java-sql-sqlexception-field,Default value for an embedded field in Hibernate. java.sql.SQLException: Field 'url' doesn't have a default value
+13/01/2016,http://stackoverflow.com/questions/34767133/c-heap-corruption-detected-after-normal-block684,C++ Heap Corruption Detected: after normal block(#684)
+13/01/2016,http://stackoverflow.com/questions/34767131/retrieve-parseusers-list-in-java-android,Retrieve ParseUsers list in Java (Android)
+13/01/2016,http://stackoverflow.com/questions/34767130/angular-material-md-grid-list-content,Angular Material -md-grid-list content
+13/01/2016,http://stackoverflow.com/questions/34767126/how-to-view-contents-of-adapter-file-in-worklight,How to view contents of .adapter file in Worklight
+13/01/2016,http://stackoverflow.com/questions/34767124/bottom-padding-between-text-and-border-xamarin-forms,bottom padding between text and border xamarin forms
+13/01/2016,http://stackoverflow.com/questions/34767122/php-with-mqsql-view-data-i-was-try-do-view-in-php-but-first-data-now-showing-in,php with mqsql view data I was try do view in php. But first data now showing in output. Remaining data displayed. how can i get all data in table
+13/01/2016,http://stackoverflow.com/questions/34767121/pointer-point-to-const-pointer-changed-but-const-no-change,pointer point to const. Pointer changed but const no change
+13/01/2016,http://stackoverflow.com/questions/34767120/running-pl-sql-and-t-sql-through-jdbc,Running PL/SQL and T-SQL Through JDBC
+13/01/2016,http://stackoverflow.com/questions/34767119/how-can-i-update-location-in-all-states-while-driving-in-ios-9,How can i Update location in all states while Driving in ios 9?
+13/01/2016,http://stackoverflow.com/questions/34767117/angularjs-module-conception,AngularJS: module conception
+13/01/2016,http://stackoverflow.com/questions/34767115/xss-dom-vulnerable,XSS DOM vulnerable
+13/01/2016,http://stackoverflow.com/questions/34767112/will-chained-maven-jobs-in-jenkins-respect-version-of-dependencies,Will chained Maven jobs in Jenkins respect version of dependencies?
+13/01/2016,http://stackoverflow.com/questions/34767109/hide-keyboard-when-clicking-elsewhere-using-cordova-app-android-5-0,Hide keyboard when clicking elsewhere using cordova app (Android 5.0+)
+13/01/2016,http://stackoverflow.com/questions/34767106/how-to-send-javascript-variable-to-another-page-in-php-when-form-is-submitted-us,How to send javascript variable to another page in php when form is submitted using submit button
+13/01/2016,http://stackoverflow.com/questions/34767105/is-it-possible-if-i-can-change-wordpress-database-post-table-under-guid-coloum-o,is it possible if i can change wordpress database post table under guid coloum only post id
